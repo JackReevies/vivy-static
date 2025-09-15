@@ -66,6 +66,13 @@ fart62.mp3
 fart63.mp3
 fart64.mp3
 fart65.mp3
+fart66.mp3
+fart67.mp3
+fart68.mp3
+fart69.mp3
+fart70.mp3
+fart71.mp3
+fart72.mp3
 rarefart1.mp3
 rarefart2.mp3
 rarefart3.mp3
